@@ -18,6 +18,10 @@ The Power BI visualization report features a diverse range of charts and graphs,
 📊 Bar charts illustrating Precipitation by month, Relative Humidity, and Pressure Tendency by month.
 🍩 A Donut chart showcasing Sum of DewPoint Temperature by Month.
 🔄 A Funnel chart highlighting Average Dewpoint Temperature by Quarter.
-Explore my Dashboard!
+
+Explore the Visuals 📈 Here's a sneak peek of my visualizations: ![image](https://github.com/Omar-428/Weather-Data-Visualisation/assets/157135250/019182a6-995c-4e7b-80ff-b7e36a314a5e)
+
+
+Dashboard
 
 🎉 Your feedback isn't just welcome—it's celebrated! Feel free to explore, share, and engage with this visualization journey. 🚀
